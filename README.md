@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**efafatima/efafatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Affifa Fatima**, a front-end developer building modern websites for startups, businesses, and e-commerce brands.
 
-Here are some ideas to get you started:
+I love creating clean, responsive, and user-focused web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Working On
+
+- Business websites
+- E-commerce stores
+- Booking systems
+- Modern UI/UX projects
+
+---
+
+## 🛠️ Tools I Use
+
+- React.js
+- Tailwind CSS
+- JavaScript
+- HTML5
+
+
+---
+
+## 💼 What I Build
+
+- Business websites
+- E-commerce platforms
+- Landing pages
+- Booking & appointment systems
+
+
+
