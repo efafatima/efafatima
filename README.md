@@ -21,7 +21,8 @@ I love creating clean, responsive, and user-focused web experiences.
 - Tailwind CSS
 - JavaScript
 - HTML5
-
+- MERN
+  
 
 ---
 
