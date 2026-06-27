@@ -56,9 +56,6 @@ Premium responsive coffee brand landing page.
 🐛 Issue Tracker
 Complaint management dashboard with modern UI.
 
-📚 Bookza
-Book buying, selling, and exchange mobile application.
-
 👗 Fashion Ecommerce
 AI Outfit Generator + Virtual Wardrobe 
 
